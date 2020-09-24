@@ -1,0 +1,25 @@
+body {background-color: skyblue;}
+
+h1 { position: relative;
+  left: 150px;
+  top: 0px;
+  }
+
+  .ws {
+  float: right;
+}
+
+
+.center {
+  margin: auto;
+  width: 50%;
+}
+
+
+h2{font-size:34px;}
+
+h1 {background-color:Orange;
+	  display:inline-block;
+	
+}
+	
